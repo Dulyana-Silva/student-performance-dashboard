@@ -9,7 +9,7 @@ This is a simulated dataset exploring how lifestyle habits affect academic perfo
 Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 👀 This dataset simulates 1,000 students' daily habits—from study time to mental health—and compares them to final exam scores. It's like spying on your GPA through the lens of lifestyle.
 
 ## About Data
-Quantitative (Numerical) Variables:
+### Quantitative (Numerical) Variables:
 - age
 - study_hours_per_day
 - social_media_hours
@@ -20,7 +20,7 @@ Quantitative (Numerical) Variables:
 - mental_health_rating
 - exam_score (dependent/target variable)
 
-🔤 Qualitative (Categorical) Variables):
+### Qualitative (Categorical) Variables):
 - gender (Male, Female, Other)
 - part_time_job (Yes/No)
 - diet_quality (Poor, Fair, Good)
