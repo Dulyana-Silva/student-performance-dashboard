@@ -8,6 +8,44 @@ This is a simulated dataset exploring how lifestyle habits affect academic perfo
 
 Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 👀 This dataset simulates 1,000 students' daily habits—from study time to mental health—and compares them to final exam scores. It's like spying on your GPA through the lens of lifestyle.
 
+## About Data
+Quantitative (Numerical) Variables:
+- age
+- study_hours_per_day
+- social_media_hours
+- netflix_hours
+- attendance_percentage
+- sleep_hours
+- exercise_frequency
+- mental_health_rating
+- exam_score (dependent/target variable)
+
+🔤 Qualitative (Categorical) Variables):
+- gender (Male, Female, Other)
+- part_time_job (Yes/No)
+- diet_quality (Poor, Fair, Good)
+- parental_education_level (High School, Bachelor, Master)
+- internet_quality (Poor, Average, Good)
+- extracurricular_participation (Yes/No)
+
+## Here are impactful angles to pursue
+
+🔎 Correlation & Relationship Analysis:
+- Does study time have a strong positive impact on exam score? 
+- How does sleep vs. social media use affect exam performance?
+- What’s the relationship between mental health rating and exam score?
+- Does having a part-time job reduce scores due to less study time/sleep?
+
+📊 Group Comparisons:
+- Do students with better internet score higher?
+- Is there a gender-based performance gap?
+- Compare diet quality vs. exam score.
+- Compare parental education level vs. student performance.
+
+📉 Risk Factor Exploration:
+- What combination of habits is most common in low scorers?
+- Are there clusters of habits that define high vs. low performers?
+  
 ## Techniques Used
 ### 🧪 Jupyter notebook
  - Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live codes, visualizions.
