@@ -6,15 +6,11 @@ A data analysis and visualization project exploring how student habits impact ac
 ## Techniques Used
 ### 🧪 Jupyter notebook
  - Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live codes, visualizions.
- - You can write and run code, see outputs instantly under the code cells, document your code with explanations and formulas and create reports that mix text and visuals in one place.
+ - You can write and run code, see outputs instantly under the code cells, and create reports that combine text and visuals in one place.
  
 ### 🐼 Pandas
 - Pandas is a powerful Python library used for data manipulation and analysis.
-- It provides data structures like DataFrames that make it easy to clean, filter, sort, and analyze large datasets efficiently.
-- In this project, pandas was used for:
-  - Loading and inspecting the dataset
-  - Performing exploratory data analysis (EDA)
-  - Calculating summary statistics and trends
+- In this project, pandas was used for loading and inspecting the dataset, performing exploratory data analysis (EDA) and calculating summary statistics and trends
 
 ### 📊 Matplotlib
 - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
