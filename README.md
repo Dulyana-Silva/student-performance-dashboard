@@ -59,4 +59,8 @@ Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 
 - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - It was used to generate various plots (such as bar charts, histograms, and pie charts) that helped visualize the relationships between student habits and academic performance.
 
+### 📈 Seaborn
+- Seaborn is a powerful Python library for statistical data visualization, built on top of Matplotlib.
+- It works seamlessly with pandas DataFrames and makes complex visualizations like heatmaps and box plots easy to generate and interpret.
+  
 ---
