@@ -27,6 +27,24 @@ Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 
 - parental_education_level (High School, Bachelor, Master)
 - internet_quality (Poor, Average, Good)
 - extracurricular_participation (Yes/No)
+  
+## Techniques Used
+### 🧪 Jupyter notebook
+ - Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live codes, visualizions.
+ - You can write and run code, see outputs instantly under the code cells, and create reports that combine text and visuals in one place.
+ 
+### 🐼 Pandas
+- Pandas is a powerful Python library used for data manipulation and analysis.
+- In this project, pandas was used for loading and inspecting the dataset, performing exploratory data analysis (EDA) and calculating summary statistics and trends
+
+### 📊 Matplotlib
+- Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- It was used to generate various plots (such as bar charts, histograms, and pie charts) that helped visualize the relationships between student habits and academic performance.
+
+### 📈 Seaborn
+- Seaborn is a powerful Python library for statistical data visualization, built on top of Matplotlib.
+- It works seamlessly with pandas DataFrames and makes complex visualizations like heatmaps and box plots easy to generate and interpret.
+
 
 ## Here are impactful angles to pursue
 
@@ -45,23 +63,25 @@ Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 
 📉 Risk Factor Exploration:
 - What combination of habits is most common in low scorers?
 - Are there clusters of habits that define high vs. low performers?
-  
-## Techniques Used
-### 🧪 Jupyter notebook
- - Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live codes, visualizions.
- - You can write and run code, see outputs instantly under the code cells, and create reports that combine text and visuals in one place.
- 
-### 🐼 Pandas
-- Pandas is a powerful Python library used for data manipulation and analysis.
-- In this project, pandas was used for loading and inspecting the dataset, performing exploratory data analysis (EDA) and calculating summary statistics and trends
 
-### 📊 Matplotlib
-- Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
-- It was used to generate various plots (such as bar charts, histograms, and pie charts) that helped visualize the relationships between student habits and academic performance.
 
-### 📈 Seaborn
-- Seaborn is a powerful Python library for statistical data visualization, built on top of Matplotlib.
-- It works seamlessly with pandas DataFrames and makes complex visualizations like heatmaps and box plots easy to generate and interpret.
+### 🧠 Who Are the Top Performers?
+
+Students scoring 90 or above tend to study around 5 hours per day, sleep 6 hours, and maintain a high attendance percentage.
+Most top performers reported having Average internet quality and did not participate in extracurricular activities.
+Interestingly, a majority of them did not work part-time and followed a Fair diet.
+This suggests that consistent study habits, mental health, and access to resources may play a bigger role than distractions like social media or Netflix.
+
+### 📉 Risk Profile of Low Scorers
+
+Students scoring below 40 tend to show different lifestyle patterns compared to top performers.
+They generally:
+- Study fewer hours and have comparatively lower attendance
+- Spend more time on social media and Netflix
+- Report lower mental health ratings
+- Are more likely to have poor diet quality.
+
+They mental health shows a signnificant drop and study houring are comparatively low also that having a poor diet comparatively to the topper
 
   
 ---
