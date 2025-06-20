@@ -63,7 +63,27 @@ Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 
 📉 Risk Factor Exploration:
 - What combination of habits is most common in low scorers?
 - Are there clusters of habits that define high vs. low performers?
+- 
 
+## 🔗 Correlation Analysis (Correlation Heatmaps)
+The heatmap below shows relationships between numerical variables. We observe a strong positive correlation between study hours and exam score, and a slight negative correlation with social media and Netflix usage.
+
+## 📈 Relationship Analysis (Regression Plots)
+We visualize how key habits like study hours, sleep, and social media usage relate to exam scores. Trend lines help understand whether habits positively or negatively impact performance.
+
+## 🧪 Group Comparisons (Boxplots)
+Here, we compare exam scores across different student groups based on:
+- Gender
+- Parental education level
+- Diet quality
+- Part-time job status
+- Attendance level
+
+## 🌟 Top Performer Profile
+We filter students scoring above 85 and analyze their typical habits. This helps us understand the lifestyle choices of successful students.
+
+## ⚠️ Risk Factor Exploration (Low Scorers)
+We focus on students scoring below 60 and explore common patterns among them. This can help identify habits associated with lower academic performance.
 
 ### 🧠 Who Are the Top Performers?
 
@@ -81,7 +101,14 @@ They generally:
 - Report lower mental health ratings
 - Are more likely to have poor diet quality.
 
-They mental health shows a signnificant drop and study houring are comparatively low also that having a poor diet comparatively to the topper
+They mental health shows a signnificant drop and study houring are comparatively low also that having a poor diet comparatively to the topper.
+
+## 📝 Conclusion
+This analysis reveals several key insights:
+- 📚 **Study hours** and **mental health** positively impact exam performance.
+- 📱 **Excessive social media** and poor **diet** are linked to lower scores.
+
+This project demonstrates how data science can uncover real-world educational patterns that support better learning outcomes.
 
   
 ---
