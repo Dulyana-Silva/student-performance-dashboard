@@ -46,7 +46,7 @@ Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 
 - It works seamlessly with pandas DataFrames and makes complex visualizations like heatmaps and box plots easy to generate and interpret.
 
 
-## Here are impactful angles to pursue
+## Here's the angles we're goning to pursue
 
 🔎 Correlation & Relationship Analysis:
 - Does study time have a strong positive impact on exam score? 
@@ -63,8 +63,8 @@ Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 
 📉 Risk Factor Exploration:
 - What combination of habits is most common in low scorers?
 - Are there clusters of habits that define high vs. low performers?
-- 
 
+  
 ## 🔗 Correlation Analysis (Correlation Heatmaps)
 The heatmap below shows relationships between numerical variables. We observe a strong positive correlation between study hours and exam score, and a slight negative correlation with social media and Netflix usage.
 
@@ -77,7 +77,6 @@ Here, we compare exam scores across different student groups based on:
 - Parental education level
 - Diet quality
 - Part-time job status
-- Attendance level
 
 ## 🌟 Top Performer Profile
 We filter students scoring above 85 and analyze their typical habits. This helps us understand the lifestyle choices of successful students.
