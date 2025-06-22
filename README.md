@@ -86,10 +86,10 @@ We focus on students scoring below 60 and explore common patterns among them. Th
 
 ### 🧠 Who Are the Top Performers?
 
-Students scoring 90 or above tend to study around 5 hours per day, sleep 6 hours, and maintain a high attendance percentage.
+Students scoring 85 or above tend to study around 5 hours per day, sleep 6 hours, and maintain a high attendance percentage.
 Most top performers reported having Average internet quality and did not participate in extracurricular activities.
 Interestingly, a majority of them did not work part-time and followed a Fair diet.
-This suggests that consistent study habits, mental health, and access to resources may play a bigger role than distractions like social media or Netflix.
+This suggests that consistent study habits and mental health may play a bigger role than distractions like social media or Netflix.
 
 ### 📉 Risk Profile of Low Scorers
 
