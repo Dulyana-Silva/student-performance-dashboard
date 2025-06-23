@@ -109,5 +109,4 @@ This analysis reveals several key insights:
 
 This project demonstrates how data science can uncover real-world educational patterns that support better learning outcomes.
 
-  
 ---
