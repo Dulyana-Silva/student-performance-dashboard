@@ -64,7 +64,7 @@ Ever wondered how much Netflix, sleep, or TikTok scrolling affects your grades? 
 - What combination of habits is most common in low scorers?
 - Are there clusters of habits that define high vs. low performers?
 
-  
+
 ## 🔗 Correlation Analysis (Correlation Heatmaps)
 The heatmap below shows relationships between numerical variables. We observe a strong positive correlation between study hours and exam score, and a slight negative correlation with social media and Netflix usage.
 
@@ -109,5 +109,5 @@ This analysis reveals several key insights:
 
 This project demonstrates how data science can uncover real-world educational patterns that support better learning outcomes.
 
-  
+
 ---
